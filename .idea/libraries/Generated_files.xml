@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/FunctionalList.js" />
+        <item url="file://$PROJECT_DIR$/physics/MutualAttraction.js" />
+        <item url="file://$PROJECT_DIR$/FunctionalListImmutable.js" />
+        <item url="file://$PROJECT_DIR$/physics/Friction.js" />
+        <item url="file://$PROJECT_DIR$/physics/AngularMovement.js" />
+        <item url="file://$PROJECT_DIR$/FunctionalMap.js" />
+        <item url="file://$PROJECT_DIR$/Promise.js" />
+        <item url="file://$PROJECT_DIR$/physics/Gravity.js" />
+        <item url="file://$PROJECT_DIR$/physics/Oscillation.js" />
+        <item url="file://$PROJECT_DIR$/algorithms/NonRecursiveFibbonacci.js" />
+        <item url="file://$PROJECT_DIR$/repos_and_stuff/ProductsAndManufacturers.js" />
+        <item url="file://$PROJECT_DIR$/physics/Liquid.js" />
+        <item url="file://$PROJECT_DIR$/While.js" />
+        <item url="file://$PROJECT_DIR$/physics/AngleVelocityRotation.js" />
+        <item url="file://$PROJECT_DIR$/OptionMonad.js" />
+        <item url="file://$PROJECT_DIR$/Async/Map.js" />
+        <item url="file://$PROJECT_DIR$/algorithms/HanoiSolve.js" />
+        <item url="file://$PROJECT_DIR$/physics/Waves.js" />
+        <item url="file://$PROJECT_DIR$/algorithms/QuickSort.js" />
+        <item url="file://$PROJECT_DIR$/Flatten.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/FunctionalList.js" />
+      <root url="file://$PROJECT_DIR$/physics/MutualAttraction.js" />
+      <root url="file://$PROJECT_DIR$/FunctionalListImmutable.js" />
+      <root url="file://$PROJECT_DIR$/physics/Friction.js" />
+      <root url="file://$PROJECT_DIR$/physics/AngularMovement.js" />
+      <root url="file://$PROJECT_DIR$/ExceptionMonad.js" />
+      <root url="file://$PROJECT_DIR$/FunctionalMap.js" />
+      <root url="file://$PROJECT_DIR$/physics/Gravity.js" />
+      <root url="file://$PROJECT_DIR$/Promise.js" />
+      <root url="file://$PROJECT_DIR$/physics/Oscillation.js" />
+      <root url="file://$PROJECT_DIR$/repos_and_stuff/ProductsAndManufacturers.js" />
+      <root url="file://$PROJECT_DIR$/algorithms/NonRecursiveFibbonacci.js" />
+      <root url="file://$PROJECT_DIR$/SimplePipe.js" />
+      <root url="file://$PROJECT_DIR$/physics/Liquid.js" />
+      <root url="file://$PROJECT_DIR$/While.js" />
+      <root url="file://$PROJECT_DIR$/algorithms/MergeSort.js" />
+      <root url="file://$PROJECT_DIR$/OptionMonad.js" />
+      <root url="file://$PROJECT_DIR$/physics/AngleVelocityRotation.js" />
+      <root url="file://$PROJECT_DIR$/Async/Map.js" />
+      <root url="file://$PROJECT_DIR$/algorithms/HanoiSolve.js" />
+      <root url="file://$PROJECT_DIR$/physics/Waves.js" />
+      <root url="file://$PROJECT_DIR$/algorithms/QuickSort.js" />
+      <root url="file://$PROJECT_DIR$/Flatten.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
